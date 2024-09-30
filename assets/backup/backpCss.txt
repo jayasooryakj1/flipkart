@@ -8,10 +8,6 @@ body{
 	width:100vw;
 }
 
-::-webkit-scrollbar {
-	display: none;
-}
-
 .header{
 	background-color:white;
 	padding-left:65px;
@@ -159,21 +155,4 @@ body{
 
 .grocery  p{
 	margin-left:20px;
-}
-
-
-.banner{
-	padding:15px;
-}
-
-.banner img{
-	width:100%;
-}
-
-.bestOfElectronics{
-	padding:0px 15px 0px 15px;
-}
-
-.bestElectronics{
-	background-color:rgb(255, 255, 255);
 }

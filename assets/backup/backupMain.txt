@@ -39,14 +39,6 @@
 		</div>
 	</div>
 	
-
-
-
-
-
-
-
-
 	<div class="topNav d-flex mx-3 pt-3">
 		<div class="topOffers">
 			<div><img src="assets/images/topOffers.jpg" alt="topOffers" width="65"></div>
@@ -93,39 +85,16 @@
 	
 
 
+	<div>
+	</div>
 	
 		
 	<div class="banner">
 		<img src="assets/images/s23.jpg" alt="s23"> 
 	</div>
 
-	
 
 
-
-
-	<div class="d-flex bestOfElectronics">
-		<div class="bestElectronics"> 
-			<div class="pt-2">Best of electronics</div>
-			<div class="d-flex ps-3">
-				<div class="border">
-					<div><img src="assets/images/cam.png" alt="cam" width="200"></div>
-					<div><span>Top Mirrorless Cameras</span></div>
-					<div><span><b>Shop Now!</b></span></div>
-				</div>
-				<div>
-					<div><img src="assets/images/cam.png" alt="cam" width="200"></div>
-					<div><span>Top Mirrorless Cameras</span></div>
-					<div><span><b>Shop Now!</b></span></div>
-				</div>
-			</div>
-		</div>
-		<div>
-			<img src="assets/images/s23Sale.jpeg" alt="s23Sale" width="200">
-		</div>
-		
-	</div>
-	
 
 
 
