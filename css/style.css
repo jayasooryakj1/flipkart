@@ -1,0 +1,167 @@
+*{
+	padding:0px;
+	margin:0px;
+	font-family:arial;
+}
+
+body{
+	background-color:rgb(241, 242, 244);
+}
+
+.header{
+	background-color:white;
+	display:flex;
+}
+
+.plusLogo{
+	margin-left:77px;
+}
+
+.searchBar{
+	display:flex;
+	background-color:rgb(241, 245, 255);
+	margin-left:25px;
+	margin-top:15px;
+	height:35px;
+	width:650px;
+	align-items:center;
+	border-radius:5px;
+	
+}
+
+.searchBar img{
+	margin-left:10px;
+}
+
+.searchBar input{
+	background-color:rgb(241, 245, 255);
+	border:none;
+	margin-left:10px;
+	font-size:18px;
+	width:500px;
+}
+
+.searchBar input:focus{
+	outline:none;
+}
+
+.login{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin-left:35px;
+	width:90px;	
+	font-size:16px;
+}
+
+.cart{
+	margin-left:50px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	width:60px;
+}
+
+.seller{
+	margin-left:40px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	width:150px;
+}
+
+.dots{
+	display:flex;
+	align-items:center;
+	margin-left:50px;
+}
+
+.topNav{
+	display:flex;
+	margin:8px 15px 0px 15px;
+	background-color:white;
+	align-items:center;
+	justify-content:space-evenly;
+	padding-bottom:20px;
+}
+
+.topNavItem{
+	align-items:center;
+	display:grid;
+}
+
+.topNavItem img{
+	margin-top:15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.topNavItem span{
+	margin-top:10px;
+}
+
+.topNavImg{
+	max-width:50px;
+}
+
+.banner{
+	margin:15px 15px 0px 15px;
+}
+
+.banner img{
+	width:100%;
+}
+
+.bestOfElectronicsOuter{
+	display:flex;
+}
+
+.bestOfElectronics{
+	background-color:white;
+	width:1170px;
+	margin:15px 15px 0px 15px;
+}
+
+.bestOfElectronicsHeader{
+	align-items:center;
+	justify-content:space-between;
+	display:flex;
+	font-size:20px;
+	font-weight:bold;
+	padding:16px 17px 0px 17px;
+}
+
+.bestOfElectronicsBody{
+	margin:28px 0px 0px 0px;
+	display:flex;
+	overflow-x:hidden;
+}
+
+.bestOfElectronicsItem{
+	text-align:center;
+	display:grid;
+	border:1px solid rgb(224, 224, 224);
+	padding:20px 5px 10px 5px;
+	margin-left:13px;
+	margin-bottom:15px;
+}
+
+.bestOfElectronicsItem img{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.bestOfElectronicsSmall{
+	margin-top:50px;
+	font-size:14px;
+}
+
+.sale{
+	margin-top:15px;
+}
+
+.offerRow{
+	display:flex;
+	margin-left:15px;
+	margin-top:15px;
+}

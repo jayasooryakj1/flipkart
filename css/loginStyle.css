@@ -1,0 +1,117 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:arial;
+	
+}
+
+body{
+	background-color:rgb(241, 243, 246);
+}
+
+.header{
+	position:sticky;
+	top:0px;
+	z-index:1;
+	display:flex;
+	background-color:rgb(40, 116, 240);
+	align-items:center;
+	height:56px;
+}
+
+.headerLogo{
+	margin-left:185px;
+}
+
+.searchBar{
+	display:flex;
+	background-color:white;
+	align-items:center;
+	margin-left:12px;
+	padding-right:15px;
+}
+
+.header input{
+	border:none;
+	width:465px;
+	height:38px;
+	padding-left:18px;
+}
+
+.header input:focus{
+	outline:none;
+}
+
+.login{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:white;
+	margin-left:20px;
+	color:rgb(40, 116, 240);
+	width:120px;
+	height:30px;
+}
+
+.seller{
+	color:white;
+	margin-left:40px;
+}
+
+.more{
+	justify-content:space-between;
+	display:flex;
+	color:white;
+	margin-left:40px;
+	width:55px;
+}
+
+.cart{
+	justify-content:space-between;
+	align-items:center;
+	display:flex;
+	color:white;
+	margin-left:45px;
+	width:55px;
+}
+
+.topNav{
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+	background-color:white;
+	border-bottom:1px solid rgb(214, 215, 219);
+	height:40px;
+}
+
+.topNavInner{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.mainBody{
+	margin-top:15px;
+	display:flex;
+	justify-content:center;
+	width:100%;
+}
+
+.mainBodyLeft{
+	padding:40px 0px 0px 30px;
+	background-color:rgb(40, 116, 240);
+	width:300px;
+}
+
+.leftBig{
+	color:white;
+	font-size:30px;
+}
+
+.leftNormal{
+	color:rgb(208, 219, 219);
+}
+
+.mainBodyRight{
+	background-color:white;
+}
